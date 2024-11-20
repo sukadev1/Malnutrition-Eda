@@ -75,5 +75,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 - Name: SUKADEV PATRA
-- Email: sukadevpatra56847@gmail.com
+- Email: ******@gmail.com
 - LinkedIn: www.linkedin.com/in/sukadev-patra-722b14227
